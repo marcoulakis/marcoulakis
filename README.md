@@ -1,7 +1,7 @@
 ### Hey, I'm Marcoulakis! 👋
 
 🇧🇷 Born and live in São Paulo, Brazil <br>
-💻 Full Stack Developer <br>
+💻 Full-Stack Developer <br>
 🕹️ GameDev Student <br>
 👩‍💻 Bug Bounty Researcher
 
