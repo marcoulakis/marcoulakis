@@ -12,4 +12,4 @@
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/lucasmontano/) <br>
-📧 [Email](mailto:femarcoulakis@gmail.com): femarcoulakis@gmail.com
+📧 [Email](mailto:femarcoulakis@gmail.com) femarcoulakis@gmail.com
