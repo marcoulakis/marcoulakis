@@ -11,5 +11,5 @@
 
 ### Find me elsewhere 🌎
 
-💼 [LinkedIn](https://www.linkedin.com/in/lucasmontano/) <br>
+💼 [LinkedIn](www.linkedin.com/in/marcoulakis/) <br>
 📧 [Email: femarcoulakis@gmail.com](mailto:femarcoulakis@gmail.com) 
