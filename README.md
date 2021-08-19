@@ -8,7 +8,7 @@
 ### What I'm working on 👨‍💻
 
 🌐 I've been developing a react-native mobile app,<br>
-meanwhile I've develop a C# .NET webapp at K2ip Consultoria
+meanwhile I've develop a C# .NET webapp
 
 ### Find me elsewhere 🌎
 
