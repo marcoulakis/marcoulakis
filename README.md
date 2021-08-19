@@ -7,9 +7,9 @@
 
 ### What I'm working on 👨‍💻
 
-🌐 I've been freelancing on web-application<br>
+🌐 I've been working at K2 Improving Performance Consultoria developing a react-native mobile app, meanwhile I've develop a C# .NET webapp<br>
 
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
-📧 [Email: femarcoulakis@gmail.com](mailto:femarcoulakis@gmail.com) 
+📧 [Email: femarcoulakis@gmail.com](mailto:femarcoulakis@gmail.com)
