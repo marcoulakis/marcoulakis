@@ -22,6 +22,9 @@
     <img align="center" alt="Marcoulakis-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Marcoulakis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
+<div>
+  ![Snake animation](https://github.com/marcoulakis/marcoulakis/blob/output/github-contribution-grid-snake.svg)
+</div>
 <br>
   
 ### About Me 🙃
@@ -42,7 +45,5 @@ meanwhile I've develop a C# .NET webapp
     
   
 <!--
-<div>
-  ![Snake animation](https://github.com/marcoulakis/marcoulakis/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 -->
