@@ -17,11 +17,11 @@
   <img align="center" alt="Marcoulakis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcoulakis-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
       <img align="center" alt="Marcoulakis-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Marcoulakis-PHP" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Marcoulakis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Marcoulakis-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Marcoulakis-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Marcoulakis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
-  
-  
-<!--
 🇧🇷 Born and live in São Paulo, Brazil <br>
 💻 Full-Stack Developer <br>
 🕹️ GameDev Student <br>
@@ -36,4 +36,10 @@ meanwhile I've develop a C# .NET webapp
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
 📧 [Email: femarcoulakis@gmail.com](mailto:femarcoulakis@gmail.com)
+    
+  
+<!--
+<div>
+  ![Snake animation](https://github.com/marcoulakis/marcoulakis/blob/output/github-contribution-grid-snake.svg)
+</div>
 -->
