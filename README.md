@@ -22,6 +22,9 @@
     <img align="center" alt="Marcoulakis-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Marcoulakis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
+<br>
+  
+### About Me 🙃
 🇧🇷 Born and live in São Paulo, Brazil <br>
 💻 Full-Stack Developer <br>
 🕹️ GameDev Student <br>
