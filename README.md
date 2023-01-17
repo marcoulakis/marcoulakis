@@ -42,11 +42,11 @@
 
 🌐 I've been developing react-native mobile apps as a freelancer 
 
-<!--
+
 
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
 📧 [Email: contato.marcoulakis@gmail.com](mailto:contato.marcoulakis@gmail.com)
     
--->
+
