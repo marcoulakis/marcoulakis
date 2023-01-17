@@ -33,20 +33,20 @@
   
 ### About Me 🙃
 🇧🇷 Born and live in São Paulo, Brazil <br>
+🇵🇹 Grew up in Portugal, where I got into programming<br>
 💻 Full-Stack Developer <br>
 🕹️ GameDev Student <br>
 👩‍💻 Bug Bounty Researcher
 
 ### What I'm working on 👨‍💻
 
-🌐 I've been developing a react-native mobile app,<br>
-meanwhile I've develop a C# .NET webapp
+🌐 I've been developing react-native mobile apps as a freelancer 
 
 <!--
 
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
-📧 [Email: femarcoulakis@gmail.com](mailto:femarcoulakis@gmail.com)
+📧 [Email: contato.marcoulakis@gmail.com](mailto:contato.marcoulakis@gmail.com)
     
 -->
