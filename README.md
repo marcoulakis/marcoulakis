@@ -41,7 +41,7 @@
 
 ### What I'm working on 👨‍💻
 
-📱 I've been developing react-native mobile apps as a freelancer 
+📱 I've been developing react-native mobile apps as a freelancer<br>
 🌐 I've been also developing backend services in node.js and python
 
 
