@@ -35,9 +35,10 @@
   
 ### About Me 🙃
 🇧🇷 Born and live in São Paulo, Brazil <br>
-🇵🇹 Grew up in Portugal, where I got into programming<br>
+🇵🇹 Grew up in Portugal, where I got into programming <br>
 💻 Full-Stack Developer <br>
-🕹️ GameDev Student <br>
+👩‍🎓 CS Bachelor's Student <br>
+🕹️ GameDev Technician <br>
 👩‍💻 Bug Bounty Researcher
 
 ### What I'm working on 👨‍💻
