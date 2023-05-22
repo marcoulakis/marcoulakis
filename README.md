@@ -50,6 +50,6 @@
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
-📧 [Email: contato.marcoulakis@gmail.com](mailto:contato.marcoulakis@gmail.com)
+📧 [Email: contact@marcoulakis.me](mailto:contact@marcoulakis.me)
     
 
