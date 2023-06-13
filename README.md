@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/marcoulakis">
-    <img height="180em" src="https://github-readme-stats-rosy-ten-55.vercel.app/api?username=marcoulakis&show_icons=true&theme=nightowl&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-rosy-ten-55.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoulakis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"/>
   </a> 
 </div>
 <div style="display: inline_block"><br>
