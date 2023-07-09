@@ -43,12 +43,14 @@
 🇵🇹 Grew up in Portugal, where I got into programming <br>
 💻 Full-Stack Developer <br>
 👩‍🎓 CS Bachelor's Student <br>
+👩‍💻 AI Academic Researcher <br>
 🕹️ GameDev Technician <br>
-👩‍💻 Bug Bounty Researcher
+👩‍🔬 Bug Bounty Researcher
+
 
 ### What I'm working on 👨‍💻
 
-📱 I've been developing react-native mobile apps as a freelancer<br>
+📱 I've been developing React Native and Swift mobile apps as a freelancer<br>
 🌐 I've been also developing backend services in node.js and python
 
 
