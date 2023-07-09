@@ -45,7 +45,7 @@
 👩‍🎓 CS Bachelor's Student <br>
 👩‍💻 AI Academic Researcher <br>
 🕹️ GameDev Technician <br>
-👩‍🔬 Bug Bounty Researcher
+👩‍🔬 Bug Bounty Hunter
 
 
 ### What I'm working on 👨‍💻
