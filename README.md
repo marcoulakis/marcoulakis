@@ -37,7 +37,6 @@
   </p>
 
 </div>
-<br>
   
 ### About Me 🙃
 🇧🇷 Born and live in São Paulo, Brazil <br>
