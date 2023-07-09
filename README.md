@@ -59,6 +59,7 @@
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcoulakis/) <br>
-📧 [Email: contact@marcoulakis.me](mailto:contact@marcoulakis.me)
+📧 [Email: contact@marcoulakis.me](mailto:contact@marcoulakis.me) <br>
+📷 [Instagram](https://instagram.com/_marcoulakis) 
     
 
