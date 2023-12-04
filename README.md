@@ -42,7 +42,7 @@
 🇧🇷 Born and live in São Paulo, Brazil <br>
 🇵🇹 Grew up in Portugal, where I got into programming <br>
 <br>
-💻 Full-Stack Developer <br>
+💻 Software Engineer <br>
 👩‍🎓 CS Bachelor's Student <br>
 👩‍🔬 AI Academic Researcher <br>
 <br>
