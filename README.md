@@ -1,9 +1,18 @@
-### Hey, I'm Marcoulakis! 👋
+
+<div>
+  <a href="#screenshot" >
+        <img width="200em" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/glamazon.png"  align="right" />
+  </a>
+  
+  <h3>Hey, I'm Marcoulakis! 👋</h2>
+</div>
+
 
 <div align="center">
+  
   <a href="https://github.com/marcoulakis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoulakis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcoulakis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"/>
   </a> 
 </div>
 <p align="center"><br>
@@ -55,8 +64,8 @@
 
 ### What I'm working on 👨‍💻
 
-🌐 I've been working as a SDE on Amazon's Fintech Team. 
-🤖 I'm also diving into AI and Cyber Security research.
+<img align="center" alt="Marcoulakis-Csharp" height="20" width="20" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/amazon.svg"> I've been working as a SDE on Amazon's Fintech Team. <br>
+🌐 I'm also diving into AI and Cyber Security research.
 
 
 ### Find me elsewhere 🌎
