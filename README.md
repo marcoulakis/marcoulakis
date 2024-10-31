@@ -1,8 +1,4 @@
-
-<div>
-  
-  <h3>Hey, I'm Marcoulakis! 👋</h2>
-</div>
+###Hey, I'm Marcoulakis! 👋
 
 
 <div align="center">
@@ -10,8 +6,7 @@
   <a href="https://github.com/marcoulakis">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcoulakis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"/>
-    <img height="150em" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/glamazon.png"  align="right" />
-
+    <img height="150em" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/glamazon.png" />
   </a> 
 </div>
 <p align="center"><br>
