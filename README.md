@@ -55,11 +55,11 @@
 
 
 
-<img align="center" height="18" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/amazon.svg"> **[Amazon](https://www.amazon.com) (SDE Intern)**  
+ <img align="center" height="22" style="margin:0 6px;" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/amazon.svg">**[Amazon](https://www.amazon.com) (SDE Intern)**  
 - Worked on large-scale fintech systems, focusing on performance and reliability
 
     
-<img align="center" height="18" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/xp.svg"> **[XP Investimentos](https://www.xpi.com.br) (Software Engineer II) _Current_** 
+<img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/xp.svg"> **[XP Investimentos](https://www.xpi.com.br) (Software Engineer II) _Current_** 
 - Building and evolving PIX solutions  
 - Improving internal tools, observability, and service migrations
 
