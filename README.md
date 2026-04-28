@@ -8,9 +8,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"  />
   </a> 
     <img height="150em" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/glamazon.png" align="right"/>
-
-
 </div>
+
+<br>
+
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +36,7 @@
   <br>
 <div>
   <p align="center">
-    <a href = "mailto:contact@marcoulakis.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contact@marcoulakis.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcoulakis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
   <p align="center">
