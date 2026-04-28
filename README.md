@@ -55,7 +55,7 @@
 
 
 
- <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/amazon.svg">**[Amazon](https://www.amazon.com) (SDE Intern)**  
+ <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/d398a1013230fab128616eb92551c5748d88d9ce/imgs/amazon.svg">**[Amazon](https://www.amazon.com) (SDE Intern)**  
 - Worked on large-scale fintech systems, focusing on performance and reliability
 
     
