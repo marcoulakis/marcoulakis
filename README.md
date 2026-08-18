@@ -56,13 +56,17 @@
 
 
 
- <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/d398a1013230fab128616eb92551c5748d88d9ce/imgs/amazon.svg">**[Amazon](https://www.amazon.com) (SDE Intern)**  
+ <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/d398a1013230fab128616eb92551c5748d88d9ce/imgs/amazon.svg">**[Amazon](https://www.amazon.com) (SDE)**  
 - Worked on large-scale fintech systems, focusing on performance and reliability
 
     
-<img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/xp.svg"> **[XP Investimentos](https://www.xpi.com.br) (Software Engineer II) _Current_** 
+<img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/xp.svg"> **[XP Investimentos](https://www.xpi.com.br) (Software Engineer)**
 - Building and evolving PIX solutions  
 - Improving internal tools, observability, and service migrations
+
+
+ <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/mottu.svg" src="MOTTU_LOGO_URL"> **[Mottu](https://mottu.com.br) (Software Engineer) _Current_**
+
 
   
 <br>
