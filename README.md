@@ -65,7 +65,7 @@
 - Improving internal tools, observability, and service migrations
 
 
- <img align="center" height="30" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/mottu.svg" src="MOTTU_LOGO_URL"> **[Mottu](https://mottu.com.br) (Software Engineer) _Current_**
+ <img align="center" height="20" src="https://raw.githubusercontent.com/marcoulakis/marcoulakis/refs/heads/master/imgs/mottu.svg" src="MOTTU_LOGO_URL"> **[Mottu](https://mottu.com.br) (Software Engineer) _Current_**
 
 
   
